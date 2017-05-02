@@ -1,0 +1,7 @@
+{
+	"email": "seuEmail@bol.com.br",
+	"senha":"suaSenha",
+	"emailDestinatario":"emailDestinatario",
+	"textoAssunto":"Assunto teste email.",
+	"textoCorpoEmail":"Texto corpo do email."
+}
