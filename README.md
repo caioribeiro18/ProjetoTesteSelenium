@@ -1,4 +1,4 @@
-# ProjetoTesteSeleniu
+# ProjetoTesteSelenium
 
 Projeto de exemplo de testes com Selenium.
 - É necessário utilizar o projeto FrameworkApoio que se encontra neste mesmo git, basta importar e referenciar os projetos.
